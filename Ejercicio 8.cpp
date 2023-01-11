@@ -75,5 +75,3 @@ double lowestGrade(int* vector, int vectorSize)
 	}
 	return lowestGrade;
 }
-
-//Hola que hace
